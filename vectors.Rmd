@@ -93,7 +93,7 @@ To make an integer, place an `L` after the number:
 ```{r}
 typeof(1)
 typeof(1L)
-1.5L
+#1.5L
 ```
 
 The distinction between integers and doubles is not usually important, but there are two important differences that you should be aware of:
