@@ -925,6 +925,13 @@
       "Repository": "CRAN",
       "Hash": "3838071b66e0c566d55cc26bd6e27bf4"
     },
+    "servr": {
+      "Package": "servr",
+      "Version": "0.24",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "e2c3e268d654becf0d78a1ec13a05b46"
+    },
     "sessioninfo": {
       "Package": "sessioninfo",
       "Version": "1.2.2",
